@@ -1,0 +1,11 @@
+<svg width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="15" cy="15" r="14" fill="#C91010" fill-opacity="0.2" stroke="#C91010" stroke-width="2"/>
+<circle cx="19" cy="20" r="6" fill="url(#paint0_diamond)" fill-opacity="0.8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M10.516 4H15.484L19 7.516V12.484L15.484 16H10.516L7 12.484V7.516L10.516 4Z" fill="#C91010" fill-opacity="0.9"/>
+<defs>
+<radialGradient id="paint0_diamond" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(19 20) rotate(90) scale(6)">
+<stop offset="0.9999" stop-color="#B85E0B"/>
+<stop offset="1" stop-color="#B85E0B" stop-opacity="0"/>
+</radialGradient>
+</defs>
+</svg>
